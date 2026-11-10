@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Huzzah Golf Society",
+    "slug": "huzzah-golf-society",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#D9F2D9"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "huzzah-golf-society"
+      }
+    }
+  }
+}
